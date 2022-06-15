@@ -8,6 +8,7 @@ using namespace std;
 
 inline void func() {
 	cout << "HelloWorld";
+	cout << "HelloWorld";
 }
 
 
